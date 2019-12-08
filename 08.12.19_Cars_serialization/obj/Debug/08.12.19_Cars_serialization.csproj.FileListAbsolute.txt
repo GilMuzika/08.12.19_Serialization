@@ -1,0 +1,9 @@
+C:\Users\Gil\source\repos\08.12.19_Cars_serialization\08.12.19_Cars_serialization\bin\Debug\08.12.19_Cars_serialization.exe.config
+C:\Users\Gil\source\repos\08.12.19_Cars_serialization\08.12.19_Cars_serialization\bin\Debug\08.12.19_Cars_serialization.exe
+C:\Users\Gil\source\repos\08.12.19_Cars_serialization\08.12.19_Cars_serialization\bin\Debug\08.12.19_Cars_serialization.pdb
+C:\Users\Gil\source\repos\08.12.19_Cars_serialization\08.12.19_Cars_serialization\obj\Debug\08.12.19_Cars_serialization.csprojAssemblyReference.cache
+C:\Users\Gil\source\repos\08.12.19_Cars_serialization\08.12.19_Cars_serialization\obj\Debug\_08._12._19_Cars_serialization.Properties.Resources.resources
+C:\Users\Gil\source\repos\08.12.19_Cars_serialization\08.12.19_Cars_serialization\obj\Debug\08.12.19_Cars_serialization.csproj.GenerateResource.cache
+C:\Users\Gil\source\repos\08.12.19_Cars_serialization\08.12.19_Cars_serialization\obj\Debug\08.12.19_Cars_serialization.exe
+C:\Users\Gil\source\repos\08.12.19_Cars_serialization\08.12.19_Cars_serialization\obj\Debug\08.12.19_Cars_serialization.pdb
+C:\Users\Gil\source\repos\08.12.19_Cars_serialization\08.12.19_Cars_serialization\obj\Debug\_08._12._19_Cars_serialization.mainForm.resources

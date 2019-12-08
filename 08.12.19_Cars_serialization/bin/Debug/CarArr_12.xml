@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Brand>Saab
+</Brand>
+    <Model>Saab
+ model 58
+</Model>
+    <Year>1929</Year>
+    <Color>Color [A=255, R=30, G=232, B=3]</Color>
+  </Car>
+  <Car>
+    <Brand>MOIA
+</Brand>
+    <Model>MOIA
+ model 11
+</Model>
+    <Year>1952</Year>
+    <Color>Color [A=255, R=134, G=40, B=173]</Color>
+  </Car>
+  <Car>
+    <Brand>Isuzu
+</Brand>
+    <Model>Isuzu
+ model 92
+</Model>
+    <Year>1865</Year>
+    <Color>Color [A=255, R=72, G=145, B=120]</Color>
+  </Car>
+  <Car>
+    <Brand>Cadillac
+</Brand>
+    <Model>Cadillac
+ model 27
+</Model>
+    <Year>2014</Year>
+    <Color>Color [A=255, R=179, G=90, B=200]</Color>
+  </Car>
+  <Car>
+    <Brand>SEAT SEAT
+</Brand>
+    <Model>SEAT SEAT
+ model 88
+</Model>
+    <Year>1975</Year>
+    <Color>Color [A=255, R=32, G=234, B=125]</Color>
+  </Car>
+  <Car>
+    <Brand>Vauxhall
+</Brand>
+    <Model>Vauxhall
+ model 71
+</Model>
+    <Year>1845</Year>
+    <Color>Color [A=255, R=216, G=56, B=51]</Color>
+  </Car>
+  <Car>
+    <Brand>Perodua Perodua
+</Brand>
+    <Model>Perodua Perodua
+ model 20
+</Model>
+    <Year>1808</Year>
+    <Color>Color [A=255, R=224, G=81, B=80]</Color>
+  </Car>
+  <Car>
+    <Brand>Kahn
+</Brand>
+    <Model>Kahn
+ model 89
+</Model>
+    <Year>1929</Year>
+    <Color>Color [A=255, R=65, G=243, B=56]</Color>
+  </Car>
+  <Car>
+    <Brand>Corvette Corvette
+</Brand>
+    <Model>Corvette Corvette
+ model 55
+</Model>
+    <Year>1880</Year>
+    <Color>Color [A=255, R=110, G=235, B=75]</Color>
+  </Car>
+  <Car>
+    <Brand>Kahn
+</Brand>
+    <Model>Kahn
+ model 16
+</Model>
+    <Year>1859</Year>
+    <Color>Color [A=255, R=168, G=173, B=102]</Color>
+  </Car>
+  <Car>
+    <Brand>Qoros
+</Brand>
+    <Model>Qoros
+ model 60
+</Model>
+    <Year>1787</Year>
+    <Color>Color [A=255, R=18, G=11, B=160]</Color>
+  </Car>
+  <Car>
+    <Brand>SsangYong
+</Brand>
+    <Model>SsangYong
+ model 99
+</Model>
+    <Year>1844</Year>
+    <Color>Color [A=255, R=50, G=181, B=6]</Color>
+  </Car>
+  <Car>
+    <Brand>TVR
+</Brand>
+    <Model>TVR
+ model 3
+</Model>
+    <Year>1830</Year>
+    <Color>Color [A=255, R=84, G=126, B=223]</Color>
+  </Car>
+  <Car>
+    <Brand>Lykan
+</Brand>
+    <Model>Lykan
+ model 55
+</Model>
+    <Year>1875</Year>
+    <Color>Color [A=255, R=151, G=108, B=139]</Color>
+  </Car>
+  <Car>
+    <Brand>Great WallGreat Wall
+</Brand>
+    <Model>Great WallGreat Wall
+ model 30
+</Model>
+    <Year>1913</Year>
+    <Color>Color [A=255, R=123, G=205, B=253]</Color>
+  </Car>
+  <Car>
+    <Brand>Trident
+</Brand>
+    <Model>Trident
+ model 65
+</Model>
+    <Year>1994</Year>
+    <Color>Color [A=255, R=199, G=79, B=65]</Color>
+  </Car>
+  <Car>
+    <Brand>Lykan
+</Brand>
+    <Model>Lykan
+ model 17
+</Model>
+    <Year>1915</Year>
+    <Color>Color [A=255, R=86, G=137, B=81]</Color>
+  </Car>
+  <Car>
+    <Brand>Polaris
+</Brand>
+    <Model>Polaris
+ model 17
+</Model>
+    <Year>1963</Year>
+    <Color>Color [A=255, R=168, G=107, B=245]</Color>
+  </Car>
+  <Car>
+    <Brand>Lamborghini
+</Brand>
+    <Model>Lamborghini
+ model 50
+</Model>
+    <Year>1932</Year>
+    <Color>Color [A=255, R=234, G=165, B=152]</Color>
+  </Car>
+  <Car>
+    <Brand>DS
+</Brand>
+    <Model>DS
+ model 17
+</Model>
+    <Year>1996</Year>
+    <Color>Color [A=255, R=55, G=175, B=61]</Color>
+  </Car>
+  <Car>
+    <Brand>Trident
+</Brand>
+    <Model>Trident
+ model 49
+</Model>
+    <Year>1955</Year>
+    <Color>Color [A=255, R=198, G=220, B=73]</Color>
+  </Car>
+  <Car>
+    <Brand>Geely
+</Brand>
+    <Model>Geely
+ model 35
+</Model>
+    <Year>2013</Year>
+    <Color>Color [A=255, R=19, G=126, B=24]</Color>
+  </Car>
+  <Car>
+    <Brand>Mitsubishi
+</Brand>
+    <Model>Mitsubishi
+ model 94
+</Model>
+    <Year>1796</Year>
+    <Color>Color [A=255, R=153, G=64, B=46]</Color>
+  </Car>
+  <Car>
+    <Brand>VW Volkswagen
+</Brand>
+    <Model>VW Volkswagen
+ model 18
+</Model>
+    <Year>1952</Year>
+    <Color>Color [A=255, R=9, G=188, B=120]</Color>
+  </Car>
+  <Car>
+    <Brand>Ariel
+</Brand>
+    <Model>Ariel
+ model 36
+</Model>
+    <Year>1817</Year>
+    <Color>Color [A=255, R=236, G=48, B=25]</Color>
+  </Car>
+  <Car>
+    <Brand>Nio
+</Brand>
+    <Model>Nio
+ model 59
+</Model>
+    <Year>1823</Year>
+    <Color>Color [A=255, R=1, G=82, B=234]</Color>
+  </Car>
+  <Car>
+    <Brand>Lamborghini
+</Brand>
+    <Model>Lamborghini
+ model 68
+</Model>
+    <Year>2009</Year>
+    <Color>Color [A=255, R=46, G=153, B=244]</Color>
+  </Car>
+  <Car>
+    <Brand>Fisker Fisker
+</Brand>
+    <Model>Fisker Fisker
+ model 3
+</Model>
+    <Year>1837</Year>
+    <Color>Color [A=255, R=84, G=177, B=56]</Color>
+  </Car>
+  <Car>
+    <Brand>Lexus
+</Brand>
+    <Model>Lexus
+ model 97
+</Model>
+    <Year>1996</Year>
+    <Color>Color [A=255, R=104, G=122, B=70]</Color>
+  </Car>
+  <Car>
+    <Brand>Lotus
+</Brand>
+    <Model>Lotus
+ model 60
+</Model>
+    <Year>1959</Year>
+    <Color>Color [A=255, R=27, G=100, B=241]</Color>
+  </Car>
+  <Car>
+    <Brand>Byton
+</Brand>
+    <Model>Byton
+ model 8
+</Model>
+    <Year>1937</Year>
+    <Color>Color [A=255, R=210, G=55, B=127]</Color>
+  </Car>
+  <Car>
+    <Brand>Rolls-Royce
+</Brand>
+    <Model>Rolls-Royce
+ model 18
+</Model>
+    <Year>1911</Year>
+    <Color>Color [A=255, R=30, G=170, B=3]</Color>
+  </Car>
+  <Car>
+    <Brand>Emgrand
+</Brand>
+    <Model>Emgrand
+ model 66
+</Model>
+    <Year>1930</Year>
+    <Color>Color [A=255, R=197, G=198, B=220]</Color>
+  </Car>
+  <Car>
+    <Brand>Changan
+</Brand>
+    <Model>Changan
+ model 83
+</Model>
+    <Year>1865</Year>
+    <Color>Color [A=255, R=121, G=70, B=113]</Color>
+  </Car>
+  <Car>
+    <Brand>Audi
+</Brand>
+    <Model>Audi model 43
+</Model>
+    <Year>1994</Year>
+    <Color>Color [A=255, R=197, G=33, B=51]</Color>
+  </Car>
+  <Car>
+    <Brand>Honda
+</Brand>
+    <Model>Honda model 13
+</Model>
+    <Year>1940</Year>
+    <Color>Color [A=255, R=218, G=165, B=189]</Color>
+  </Car>
+  <Car>
+    <Brand>Mahindra
+</Brand>
+    <Model>Mahindra model 76
+</Model>
+    <Year>1777</Year>
+    <Color>Color [A=255, R=91, G=0, B=8]</Color>
+  </Car>
+</ArrayOfCar>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Brand>Saab
+</Brand>
+    <Model>Saab model 58
+</Model>
+    <Year>1929</Year>
+    <Color>Color [A=255, R=30, G=232, B=3]</Color>
+  </Car>
+  <Car>
+    <Brand>MOIA
+</Brand>
+    <Model>MOIA model 11
+</Model>
+    <Year>1952</Year>
+    <Color>Color [A=255, R=134, G=40, B=173]</Color>
+  </Car>
+  <Car>
+    <Brand>Isuzu
+</Brand>
+    <Model>Isuzu model 92
+</Model>
+    <Year>1865</Year>
+    <Color>Color [A=255, R=72, G=145, B=120]</Color>
+  </Car>
+</ArrayOfCar>

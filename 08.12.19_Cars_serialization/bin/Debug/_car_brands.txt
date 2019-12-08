@@ -1,0 +1,103 @@
+Abarth BadgeAbarth
+AC
+Alfa Romeo
+Alpina
+Alpine
+Ariel
+Ascari
+Aston Martin
+Audi
+Bentley Bentley
+BMW
+Bristol
+Bugatti Bugatti
+Byton
+Cadillac
+Caterham Caterham
+Changan
+Chevrolet Chevrolet
+Chrysler Chrysler
+Citroen
+Corvette Corvette
+Cupra
+Dacia
+Daihatsu Daihatsu
+Dallara
+David Brown
+DFSK
+Dodge Dodge
+DS
+Elemental
+Emgrand
+Faraday Future
+Ferrari
+Fiat
+Fisker Fisker
+Ford Ford
+Geely
+Genesis
+Ginetta Ginetta
+Great WallGreat Wall
+Honda
+HummerHummer
+Hyundai
+Infiniti Infiniti
+Invicta Invicta
+Isuzu
+Iveco
+Jaguar
+Jeep Jeep
+Kahn
+Kia
+Kode
+KTM
+Lamborghini
+Land Rover
+LDV
+Lexus
+Lotus
+Lykan
+Lynk & Co
+Mahindra
+MAN
+Marcos
+Maserati Maserati
+Maybach
+Mazda Mazda
+McLaren McLaren
+Mercedes
+MG
+MINI
+Mitsubishi
+MOIA
+Morgan Morgan
+Nio
+Nissan
+Noble Noble
+Perodua Perodua
+Peugeot
+Polaris
+Polestar
+Porsche
+Proton Proton
+Qoros
+Radical Radical
+Renault
+Rolls-Royce
+Saab
+SEAT SEAT
+Skoda
+Smart
+SRT
+SsangYong
+Subaru
+Suzuki
+Tesla
+Toyota Toyota
+Trident
+TVR
+Vauxhall
+VW Volkswagen
+VolvoVolvo
+Westfield
+Zenos

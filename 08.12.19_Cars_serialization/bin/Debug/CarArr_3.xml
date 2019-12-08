@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Brand>Dallara
+</Brand>
+    <Model>Dallara model 96
+</Model>
+    <Year>1854</Year>
+    <Color>Color [A=255, R=3, G=105, B=246]</Color>
+  </Car>
+  <Car>
+    <Brand>Lynk &amp; Co
+</Brand>
+    <Model>Lynk &amp; Co model 9
+</Model>
+    <Year>1954</Year>
+    <Color>Color [A=255, R=101, G=143, B=70]</Color>
+  </Car>
+  <Car>
+    <Brand>Bugatti Bugatti
+</Brand>
+    <Model>Bugatti Bugatti model 13
+</Model>
+    <Year>1978</Year>
+    <Color>Color [A=255, R=104, G=192, B=155]</Color>
+  </Car>
+  <Car>
+    <Brand>Maybach
+</Brand>
+    <Model>Maybach model 62
+</Model>
+    <Year>1853</Year>
+    <Color>Color [A=255, R=102, G=206, B=220]</Color>
+  </Car>
+  <Car>
+    <Brand>KTM
+</Brand>
+    <Model>KTM model 27
+</Model>
+    <Year>1980</Year>
+    <Color>Color [A=255, R=60, G=234, B=232]</Color>
+  </Car>
+</ArrayOfCar>

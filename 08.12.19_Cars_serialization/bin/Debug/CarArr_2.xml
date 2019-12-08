@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Brand>Genesis
+</Brand>
+    <Model>Genesis model 40
+</Model>
+    <Year>1986</Year>
+    <Color>Color [A=255, R=174, G=88, B=99]</Color>
+  </Car>
+  <Car>
+    <Brand>McLaren McLaren
+</Brand>
+    <Model>McLaren McLaren model 99
+</Model>
+    <Year>1767</Year>
+    <Color>Color [A=255, R=101, G=81, B=48]</Color>
+  </Car>
+  <Car>
+    <Brand>Lamborghini
+</Brand>
+    <Model>Lamborghini model 13
+</Model>
+    <Year>1949</Year>
+    <Color>Color [A=255, R=210, G=72, B=244]</Color>
+  </Car>
+  <Car>
+    <Brand>Saab
+</Brand>
+    <Model>Saab model 93
+</Model>
+    <Year>1779</Year>
+    <Color>Color [A=255, R=105, G=87, B=62]</Color>
+  </Car>
+  <Car>
+    <Brand>Nissan
+</Brand>
+    <Model>Nissan model 27
+</Model>
+    <Year>1860</Year>
+    <Color>Color [A=255, R=58, G=197, B=137]</Color>
+  </Car>
+  <Car>
+    <Brand>Renault
+</Brand>
+    <Model>Renault model 58
+</Model>
+    <Year>1917</Year>
+    <Color>Color [A=255, R=62, G=169, B=54]</Color>
+  </Car>
+</ArrayOfCar>
